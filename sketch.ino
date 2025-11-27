@@ -11,7 +11,7 @@ const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
 // ThingSpeak Write API Key
-const char* thingspeakApiKey = "AZ2LRSLBP80EF2NK";
+const char* thingspeakApiKey = "Thingspeakwriteapikey";
 
 void setup() {
   Serial.begin(115200);
